@@ -104,6 +104,6 @@ Your privacy comes first.
 
 If you found this project useful, consider giving it a **Star ⭐** to support future development.
 
-**Made with ❤️ by KamaX**
+**Made by KamaX**
 
 </div>
