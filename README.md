@@ -161,7 +161,7 @@ This project is licensed under the MIT License.
 
 # ❤️ Credits
 
-Developed with ❤️ by **IRQ HUB**
+Developed by **KamaX**
 
 If you like this project, don't forget to ⭐ the repository.
 
