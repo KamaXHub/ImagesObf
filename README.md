@@ -2,14 +2,16 @@
 
 # 🛡️ StegaVault
 
-### Hide Secret Files & Messages Inside Images — Securely, Privately, and Completely in Your Browser.
+### Hide Files & Secret Messages Inside Images
 
-<p>
-  <img src="https://img.shields.io/badge/Version-v1.0-4F8CFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Steganography-Pixel%20Based-purple?style=for-the-badge">
-</p>
+A modern web application that allows you to securely hide files or secret messages inside images and reveal them later — all processed locally inside your browser.
+
+🌐 **Live Demo:** https://kamaxhub.github.io/ImagesObf/
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 </div>
 
@@ -20,54 +22,64 @@
 ## 🏠 Home
 
 <p align="center">
-  <img src="images/home.png" width="100%">
+<img src="Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٠٥-١٧٦_com.android.chrome-edit.jpg" width="100%">
 </p>
 
 ---
 
-## 🔒 Hide Secrets
+## 🔒 Hide Data
 
 <p align="center">
-  <img src="images/hide.png" width="100%">
+<img src="Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٢٧-١٢٨_com.android.chrome-edit.jpg" width="100%">
 </p>
 
 ---
 
-## 🔓 Reveal Secrets
+## 🔓 Reveal Data
 
 <p align="center">
-  <img src="images/reveal.png" width="100%">
+<img src="Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٤١-٠٥٠_com.android.chrome-edit.jpg" width="100%">
 </p>
 
 ---
 
 # ✨ Features
 
-- 🔐 Hide files inside PNG images
-- 📝 Hide secret text messages
-- 📂 Hide any binary file
-- 🔓 Reveal hidden files instantly
+- 🔐 Hide secret messages inside images
+- 📂 Hide any file inside PNG images
+- 🔓 Reveal hidden data instantly
 - ⚡ Fast browser processing
-- 🔒 Client-side processing (No server upload)
-- 🎨 Modern responsive interface
-- 📱 Mobile friendly
-- 🛡️ Privacy focused
-- 🌙 Beautiful Dark UI
+- 🌐 100% Client-side
+- 📱 Responsive Design
+- 🎨 Modern Dark Interface
+- 🖱️ Drag & Drop Support
+- 📦 Multiple File Support
+- 🔒 Privacy Focused
 
 ---
 
-# 🚀 How It Works
+# 🚀 Live Demo
 
-StegaVault uses image steganography to safely embed encrypted data inside image pixels without visibly changing the image.
+## 🌍 Website
 
-The generated image looks almost identical to the original while secretly carrying your hidden content.
+https://kamaxhub.github.io/ImagesObf/
+
+---
+
+# 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Canvas API
+- Browser File API
 
 ---
 
 # 📦 Supported Files
 
-| Type | Supported |
-|------|-----------|
+| Type | Support |
+|------|---------|
 | PNG | ✅ |
 | JPG | ✅ |
 | JPEG | ✅ |
@@ -75,102 +87,60 @@ The generated image looks almost identical to the original while secretly carryi
 | TXT | ✅ |
 | ZIP | ✅ |
 | PDF | ✅ |
-| Any Binary File | ✅ |
-
----
-
-# 🖥️ Usage
-
-## Hide Data
-
-1. Upload an image.
-2. Select your secret file or message.
-3. Click **Hide Data**.
-4. Download the generated secure image.
-
----
-
-## Reveal Data
-
-1. Upload the generated image.
-2. Click **Reveal Data**.
-3. Download or view the extracted content.
+| Binary Files | ✅ |
 
 ---
 
 # 🔒 Privacy
 
-StegaVault works **100% inside your browser**.
+StegaVault performs all operations directly inside your browser.
 
-- ❌ No files are uploaded.
-- ❌ No tracking.
-- ❌ No cloud storage.
-- ✅ Everything happens locally.
-
-Your data never leaves your device.
-
----
-
-# ⚙️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- Canvas API
-- Browser File API
-- Modern UI Components
+- ✅ No uploads
+- ✅ No tracking
+- ✅ No cloud processing
+- ✅ Your files stay on your device
 
 ---
 
 # 📂 Project Structure
 
 ```
-StegaVault/
+ImagesObf/
 │
 ├── index.html
 ├── css/
 ├── js/
-├── images/
 ├── assets/
-└── README.md
+├── README.md
+│
+├── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٠٥-١٧٦_com.android.chrome-edit.jpg
+├── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٢٧-١٢٨_com.android.chrome-edit.jpg
+└── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٤١-٠٥٠_com.android.chrome-edit.jpg
 ```
 
 ---
 
-# 🌟 Why StegaVault?
+# ⭐ Why StegaVault?
 
-✔ Fast
-
-✔ Secure
-
-✔ Private
-
-✔ Modern UI
-
-✔ Completely Free
-
-✔ Open Source
+- Fast & Lightweight
+- Secure Processing
+- Beautiful UI
+- Open Source
+- Browser-Based
+- No Installation Required
 
 ---
 
-# 📄 License
+# 📜 License
 
-This project is licensed under the MIT License.
-
----
-
-# ❤️ Credits
-
-Developed by **KamaX**
-
-If you like this project, don't forget to ⭐ the repository.
+Released under the **MIT License**.
 
 ---
 
 <div align="center">
 
-## ⭐ Star this repository if you found it useful!
+## ⭐ If you like this project, leave a Star!
 
-Made with ❤️ for the Open Source Community.
+Made with ❤️ by **IRQ HUB**
 
 </div>
