@@ -21,11 +21,7 @@ A modern, secure, and privacy-focused web application that lets you hide secret 
 
 <b>🌐 Live Website</b>
 
-<br><br>
-
 https://kamaxhub.github.io/ImagesObf/
-
-<br><br>
 
 <a href="https://kamaxhub.github.io/ImagesObf/">
 <img src="https://img.shields.io/badge/Open%20Website-4F8CFF?style=for-the-badge&logo=googlechrome&logoColor=white">
