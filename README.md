@@ -4,14 +4,14 @@
 
 ### Hide Files & Secret Messages Inside Images
 
-A modern web application that allows you to securely hide files or secret messages inside images and reveal them later — all processed locally inside your browser.
+A modern, secure, and privacy-focused web application that lets you hide secret messages or files inside images and reveal them later — all directly in your browser.
 
-🌐 **Live Demo:** https://kamaxhub.github.io/ImagesObf/
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Version-v1.0-4F8CFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Privacy-100%25%20Local-success?style=for-the-badge">
+</p>
 
 </div>
 
@@ -45,102 +45,65 @@ A modern web application that allows you to securely hide files or secret messag
 
 # ✨ Features
 
-- 🔐 Hide secret messages inside images
-- 📂 Hide any file inside PNG images
-- 🔓 Reveal hidden data instantly
-- ⚡ Fast browser processing
-- 🌐 100% Client-side
-- 📱 Responsive Design
-- 🎨 Modern Dark Interface
-- 🖱️ Drag & Drop Support
-- 📦 Multiple File Support
-- 🔒 Privacy Focused
-
----
-
-# 🚀 Live Demo
-
-## 🌍 Website
-
-https://kamaxhub.github.io/ImagesObf/
-
----
-
-# 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- Canvas API
-- Browser File API
+- 🔐 Hide secret messages inside images.
+- 📂 Hide files securely inside supported images.
+- 🔓 Reveal hidden content instantly.
+- ⚡ Fast client-side processing.
+- 🌐 Works completely offline after loading.
+- 🎨 Clean and modern dark interface.
+- 📱 Fully responsive on desktop and mobile.
+- 🖱️ Simple drag & drop support.
+- 🔒 No data is uploaded to any server.
+- 💙 Designed for privacy and ease of use.
 
 ---
 
 # 📦 Supported Files
 
 | Type | Support |
-|------|---------|
+|------|:------:|
 | PNG | ✅ |
 | JPG | ✅ |
 | JPEG | ✅ |
 | BMP | ✅ |
 | TXT | ✅ |
-| ZIP | ✅ |
 | PDF | ✅ |
-| Binary Files | ✅ |
+| ZIP | ✅ |
+| Any Binary File | ✅ |
 
 ---
 
 # 🔒 Privacy
 
-StegaVault performs all operations directly inside your browser.
+Your privacy comes first.
 
-- ✅ No uploads
-- ✅ No tracking
-- ✅ No cloud processing
-- ✅ Your files stay on your device
-
----
-
-# 📂 Project Structure
-
-```
-ImagesObf/
-│
-├── index.html
-├── css/
-├── js/
-├── assets/
-├── README.md
-│
-├── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٠٥-١٧٦_com.android.chrome-edit.jpg
-├── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٢٧-١٢٨_com.android.chrome-edit.jpg
-└── Screenshot_٢٠٢٦-٠٧-١٤-١٤-٤٣-٤١-٠٥٠_com.android.chrome-edit.jpg
-```
+- ✅ Everything runs locally in your browser.
+- ✅ No uploads.
+- ✅ No cloud storage.
+- ✅ No tracking.
+- ✅ Your files never leave your device.
 
 ---
 
 # ⭐ Why StegaVault?
 
-- Fast & Lightweight
-- Secure Processing
-- Beautiful UI
-- Open Source
-- Browser-Based
-- No Installation Required
-
----
-
-# 📜 License
-
-Released under the **MIT License**.
+- 🚀 Fast & Lightweight
+- 🔒 Privacy First
+- 🎨 Beautiful User Interface
+- 📱 Responsive Design
+- 🌍 Browser-Based
+- 💯 Easy to Use
+- 🛡️ Secure Steganography
+- ❤️ Open Source
 
 ---
 
 <div align="center">
 
-## ⭐ If you like this project, leave a Star!
+## ⭐ Enjoy the project?
 
-Made with ❤️ by **IRQ HUB**
+If you found this project useful, consider giving it a **Star ⭐** to support future development.
+
+**Made with ❤️ by IRQ HUB**
 
 </div>
