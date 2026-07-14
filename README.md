@@ -17,8 +17,6 @@ A modern, secure, and privacy-focused web application that lets you hide secret 
 
 ---
 
----
-
 <div align="center">
 
 # 🌐 Live Website
